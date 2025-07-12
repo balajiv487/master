@@ -1,0 +1,6 @@
+Coding Challenge Part 2:
+
+Based on the data that was loaded into the diner_activity table,
+Identify all of the state-to-state migrations and identify which state-to-state migration had the most moves.
+The query should use at least one window function and written in a CTE format.
+

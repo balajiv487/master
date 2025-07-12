@@ -1,0 +1,11 @@
+diner_key,diner_name,diner_state,diner_programid,last_dined
+1,Sarah,ny,4,2023-01-13
+2,Michael,tx,4,2024-10-30
+3,Emily,ca,3,2025-06-15
+4,David,ca,2,2025-04-09
+5,Olivia,fl,1,2025-05-12
+6,James,il,4,2025-02-01
+7,Sophie,oh,2,2024-11-08
+8,John,pa,1,2025-06-23
+9,Ava,nc,3,2025-05-15
+10,Daniel,nc,4,2025-07-03
