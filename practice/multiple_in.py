@@ -7,11 +7,9 @@ class Mother:
 class Child(Mother,Father):
     def sports(self):
         print(f"I like sports")
-c=Child()
-c.activity()
-c.habit()
-c.sports()
+
 
 a=["hi","how","are","you"]
 itr=iter(a)
 print(next(itr))
+fjdshfjafnkafknbfiuqwyeuruewufhhdsancoienu aeur
