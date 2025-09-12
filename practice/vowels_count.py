@@ -7,4 +7,7 @@ class Stringrev:
 
 txt=Stringrev()
 s=input("Enter a string:")
-print(f" Reverse of {s} is {txt.reverse_str(s)}")
+
+
+
+#dfhsajfhdsafhasf
