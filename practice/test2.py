@@ -10,4 +10,5 @@ class Point:
 p1=Point(0,1)
 p2=Point(1,1)
 
-print(p2.euclidean_distance(p1))
+#print(p2.euclidean_distance(p1))
+lkkewkh;oiehqo;uqnewrowqiur0qc
